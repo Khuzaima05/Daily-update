@@ -20,3 +20,4 @@
 
 - Had a discussion with Akash regarding ocp-all-inclusive module for adding CBR.
 - Again ping Valerio for re-review.
+- Picked up new issue [terraform-ibm-cos] migrate to use cross-object referencing for input variable validation and raise PR for that.
